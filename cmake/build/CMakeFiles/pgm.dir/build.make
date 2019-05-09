@@ -57,321 +57,9 @@ include CMakeFiles/pgm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/pgm.dir/flags.make
 
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o
-
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o: CMakeFiles/pgm.dir/flags.make
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o"
-	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.i"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.i
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.s"
-	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.s
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.requires:
-
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.requires
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.requires
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.provides.build
-.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.provides
-
-CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o
-
-
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.i: cmake_force
@@ -395,7 +83,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.c
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.i: cmake_force
@@ -417,9 +105,57 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o.pro
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o
 
 
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o
+
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o
+
+
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.i: cmake_force
@@ -443,7 +179,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawa
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.i: cmake_force
@@ -467,7 +203,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawa
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.i: cmake_force
@@ -491,7 +227,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawa
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp.i: cmake_force
@@ -515,7 +251,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawa
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp.i: cmake_force
@@ -539,7 +275,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawa
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp.i: cmake_force
@@ -563,7 +299,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawa
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp.i: cmake_force
@@ -587,7 +323,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawa
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp.i: cmake_force
@@ -611,7 +347,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helpe
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp.i: cmake_force
@@ -635,7 +371,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/helpe
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp.i: cmake_force
@@ -659,7 +395,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp.i: cmake_force
@@ -683,7 +419,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp.i: cmake_force
@@ -707,7 +443,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp.i: cmake_force
@@ -731,7 +467,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp.i: cmake_force
@@ -755,7 +491,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp.i: cmake_force
@@ -779,7 +515,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp.i: cmake_force
@@ -803,7 +539,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp.i: cmake_force
@@ -827,7 +563,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/math/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp.i: cmake_force
@@ -851,7 +587,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp.i: cmake_force
@@ -875,7 +611,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp.i: cmake_force
@@ -899,7 +635,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp.i: cmake_force
@@ -923,7 +659,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp.i: cmake_force
@@ -947,7 +683,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp.i: cmake_force
@@ -971,7 +707,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp.i: cmake_force
@@ -995,7 +731,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp.i: cmake_force
@@ -1019,7 +755,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/openg
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp.i: cmake_force
@@ -1043,7 +779,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp.i: cmake_force
@@ -1067,7 +803,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp.i: cmake_force
@@ -1091,7 +827,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp.i: cmake_force
@@ -1115,7 +851,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp.i: cmake_force
@@ -1139,7 +875,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp.i: cmake_force
@@ -1163,7 +899,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp.i: cmake_force
@@ -1187,7 +923,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp.i: cmake_force
@@ -1211,7 +947,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/scene
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.i: cmake_force
@@ -1235,7 +971,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.i: cmake_force
@@ -1259,7 +995,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.i: cmake_force
@@ -1281,9 +1017,57 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o
 
 
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o
+
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o
+
+
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.i: cmake_force
@@ -1307,7 +1091,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_l
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.i: cmake_force
@@ -1331,7 +1115,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_l
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.i: cmake_force
@@ -1355,7 +1139,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_l
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp.i: cmake_force
@@ -1379,7 +1163,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_l
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp.i: cmake_force
@@ -1403,7 +1187,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_l
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/glad.cpp.i: cmake_force
@@ -1427,7 +1211,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/glad/src/
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui.cpp.i: cmake_force
@@ -1451,7 +1235,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/img
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp.i: cmake_force
@@ -1475,7 +1259,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/img
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp.i: cmake_force
@@ -1499,7 +1283,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/img
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp.i: cmake_force
@@ -1523,7 +1307,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/img
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.i: cmake_force
@@ -1547,7 +1331,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/img
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.i: cmake_force
@@ -1571,7 +1355,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/img
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.i: cmake_force
@@ -1593,9 +1377,129 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/l
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o
 
 
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o
+
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o
+
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o
+
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o
+
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o: CMakeFiles/pgm.dir/flags.make
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o"
+	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.i"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp > CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.i
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.s"
+	g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.s
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.requires:
+
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.requires
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.provides: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.provides.build
+.PHONY : CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.provides
+
+CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.provides.build: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o
+
+
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o: CMakeFiles/pgm.dir/flags.make
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o: /home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o"
 	g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o -c /home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp
 
 CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.i: cmake_force
@@ -1619,21 +1523,10 @@ CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexno
 
 # Object files for target pgm
 pgm_OBJECTS = \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o" \
-"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o" \
@@ -1670,6 +1563,8 @@ pgm_OBJECTS = \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o" \
@@ -1683,26 +1578,20 @@ pgm_OBJECTS = \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o" \
+"CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o" \
 "CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o"
 
 # External object files for target pgm
 pgm_EXTERNAL_OBJECTS =
 
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o
-pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o
@@ -1739,6 +1628,8 @@ pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o
@@ -1752,11 +1643,16 @@ pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgu
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o
+pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o
 pgm: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o
 pgm: CMakeFiles/pgm.dir/build.make
 pgm: /usr/lib/x86_64-linux-gnu/libglfw.so.3.2
 pgm: CMakeFiles/pgm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Linking CXX executable pgm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/leonardocunha/P3/INF443/Projet-INF443/cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Linking CXX executable pgm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/pgm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1764,21 +1660,10 @@ CMakeFiles/pgm.dir/build: pgm
 
 .PHONY : CMakeFiles/pgm.dir/build
 
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o.requires
-CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp.o.requires
@@ -1815,6 +1700,8 @@ CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Pro
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp.o.requires
@@ -1828,6 +1715,11 @@ CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Pro
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o.requires
+CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o.requires
 CMakeFiles/pgm.dir/requires: CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o.requires
 
 .PHONY : CMakeFiles/pgm.dir/requires

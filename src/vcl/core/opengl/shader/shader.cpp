@@ -43,7 +43,7 @@ static void check_link(GLuint vertex_shader, GLuint fragment_shader, GLuint prog
     // Get info on Link
     GLint maxLength = 0;
     glGetProgramiv(program, GL_INFO_LOG_LENGTH, &maxLength);
-    std::vector<GLchar> infoLog( static_cast<size_t>(maxLength) );
+    std::vector<GLchar> infoLog( static_cast<size_t>(maxLength)+1 );
     glGetProgramInfoLog(program, maxLength, &maxLength, &infoLog[0]);
 
     if( maxLength >= 1 )

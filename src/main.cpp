@@ -6,8 +6,7 @@
 #include "helper_scene.hpp"
 
 // Include exercises
-#include "exercises/exercises.hpp"
-
+#include "project_scene.hpp"
 
 
 

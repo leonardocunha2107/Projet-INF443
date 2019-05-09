@@ -339,6 +339,141 @@ home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.s:
 	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.s
 .PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp.s
 
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.o: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.i: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.s: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp.s
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.o: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.i: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.s: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp.s
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.o: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.i: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.s: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp.s
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.o: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.i: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.s: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp.s
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.o: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.i: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.s: home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp.s
+
 home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.o: home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.o
 
 .PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.o
@@ -365,357 +500,6 @@ home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise123
 home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.s:
 	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.s
 .PHONY : home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.cpp.s
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.o: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.o
-
-# target to build an object file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.o
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.i: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.i
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.i
-
-# target to preprocess a source file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.i:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.i
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.i
-
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.s: home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.s
-
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.s
-
-# target to generate assembly for a file
-home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.s:
-	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.s
-.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.cpp.s
 
 home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.o: home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.cpp.o
 
@@ -770,6 +554,60 @@ home/leonardocunha/P3/INF443/Projet-INF443/src/main.s: home/leonardocunha/P3/INF
 home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.s:
 	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.s
 .PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/main.cpp.s
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.o: home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.i: home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.s: home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.cpp.s
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.o: home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.i: home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.s: home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.s
 
 home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.o: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o
 
@@ -1743,6 +1581,60 @@ home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structur
 	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.s
 .PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp.s
 
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.o: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.i: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.s: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp.s
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.o: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.o
+
+# target to build an object file
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.o
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.i: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.i
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.i
+
+# target to preprocess a source file
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.i
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.i
+
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.s: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.s
+
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.s
+
+# target to generate assembly for a file
+home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.s
+.PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp.s
+
 home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.o: home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp.o
 
 .PHONY : home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.o
@@ -1911,54 +1803,36 @@ help:
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.o"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.i"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/lodepng/lodepng.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/dbfopen.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/safileio.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shpopen.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/shapelib/shptree.s"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.o"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.i"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/00_introduction/00_introduction.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/01_modelisation.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/meshes.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/01_modelisation/terrain.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_billboard.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_perlin.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/02_texture/example_texture.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_animated_hierarchy.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/example_interpolation.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/03_animation/spyder.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_mass_spring.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/04_simulation/example_sphere_gravity.s"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.o"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.i"
-	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/exercises/base_exercise/base_exercise.s"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.o"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.i"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/helper_scene.s"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/main.o"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/main.i"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/main.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/project_scene.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/tool/base_exercise.s"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.o"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.i"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.s"
@@ -2067,6 +1941,12 @@ help:
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.o"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.i"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.s"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.o"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.i"
+	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.s"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.o"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.i"
 	@echo "... home/leonardocunha/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.s"

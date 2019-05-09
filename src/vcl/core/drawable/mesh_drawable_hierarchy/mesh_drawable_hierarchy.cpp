@@ -56,7 +56,8 @@ void mesh_drawable_hierarchy::add_element(const vcl::mesh_drawable& visual_param
                  const vcl::vec3& translation_local_param,
                  const vcl::mat3& rotation_local_param)
 {
-    name_map[name_param] = static_cast<int>(name_map.size());
+    const int N = static_cast<int>(name_map.size());
+    name_map[name_param] = N;
     parent_name.push_back(name_parent);
     translation_local.push_back(translation_local_param);
     rotation_local.push_back(rotation_local_param);
@@ -70,7 +71,6 @@ void mesh_drawable_hierarchy::update_hierarchy()
 
     if(rotation_global.size()!=rotation_local.size())
         rotation_global.resize(rotation_local.size());
-
 
     const int N = static_cast<int>(translation_global.size());
     assert(N>=0);
