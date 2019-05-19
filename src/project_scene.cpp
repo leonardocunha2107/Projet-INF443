@@ -1,5 +1,6 @@
 
 #include "project_scene.hpp"
+#include <stdio.h>
 
 
 
@@ -29,6 +30,9 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     scene.camera.scale = 10.0f;
     scene.camera.apply_rotation(0,0,0,1.2f);
 
+    bob =new Bob();
+    timer.scale = 0.5f;
+
 }
 
 
@@ -40,12 +44,15 @@ void scene_exercise::frame_draw(std::map<std::string,GLuint>& shaders, scene_str
     set_gui();
 
     glEnable( GL_POLYGON_OFFSET_FILL ); // avoids z-fighting when displaying wireframe
-
-
-    // Display terrain
-    glBindTexture(GL_TEXTURE_2D, sand_texture);
+    const float t =timer.t;
+    bob->update(t);
+    // Display Bob
+    //GLuint texture_bob = texture_gpu(image_load_png("data/SpongeFace1.png"));
+    //glBindTexture(GL_TEXTURE_2D, texture_bob);
+    printf("hey");
+    glBindTexture(GL_TEXTURE_2D, scene.texture_white);
     glPolygonOffset( 1.0, 1.0 );
-    terrain.draw(shaders["mesh"], scene.camera);
+    bob->bob_.draw(shaders["mesh"], scene.camera);
 
     if( gui_scene.wireframe ){ // wireframe if asked from the GUI
         glPolygonOffset( 1.0, 1.0 );

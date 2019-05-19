@@ -4,7 +4,7 @@
 
 // Include common part for exercises
 #include "helper_scene.hpp"
-
+#include <stdio.h>
 // Include exercises
 #include "project_scene.hpp"
 
@@ -41,7 +41,8 @@ void mouse_click_callback(GLFWwindow* window, int button, int action, int mods);
 // ************************************** //
 
 int main()
-{
+{    printf("hey\n");
+
 
     // ************************************** //
     // Initialization and data setup
