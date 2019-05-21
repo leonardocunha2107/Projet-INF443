@@ -1,7 +1,7 @@
 #pragma once
 
 #include "tool/base_exercise.hpp"
-#include "models/bob/bob.hpp"
+#include "models/models.hpp"
 
 // Stores some parameters that can be set from the GUI
 struct gui_scene_structure
@@ -25,7 +25,7 @@ struct scene_exercise : base_scene_exercise
 
     void setup_data(std::map<std::string,GLuint>& shaders, scene_structure& scene, gui_structure& gui);
     void frame_draw(std::map<std::string,GLuint>& shaders, scene_structure& scene, gui_structure& gui);
-    Bob* bob;
+    Models* m;
     void set_gui();
 
     // visual representation of a surface

@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.cpp.o"
   "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/main.cpp.o"
+  "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.cpp.o"
   "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.cpp.o"
+  "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.cpp.o"
   "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/project_scene.cpp.o"
   "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp.o"
   "CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp.o"

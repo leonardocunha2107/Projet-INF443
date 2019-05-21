@@ -29,8 +29,7 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     scene.camera.camera_type = camera_control_spherical_coordinates;
     scene.camera.scale = 10.0f;
     scene.camera.apply_rotation(0,0,0,1.2f);
-
-    bob =new Bob();
+    m=new Models();
     timer.scale = 0.5f;
 
 }
@@ -42,17 +41,17 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
 void scene_exercise::frame_draw(std::map<std::string,GLuint>& shaders, scene_structure& scene, gui_structure& )
 {
     set_gui();
-
+    timer.update();
     glEnable( GL_POLYGON_OFFSET_FILL ); // avoids z-fighting when displaying wireframe
     const float t =timer.t;
-    bob->update(t);
+    m->update(t);
     // Display Bob
     //GLuint texture_bob = texture_gpu(image_load_png("data/SpongeFace1.png"));
     //glBindTexture(GL_TEXTURE_2D, texture_bob);
-    printf("hey");
     glBindTexture(GL_TEXTURE_2D, scene.texture_white);
     glPolygonOffset( 1.0, 1.0 );
-    bob->bob_.draw(shaders["mesh"], scene.camera);
+    m->bob_->bob_.draw(shaders["mesh"], scene.camera);
+    m->ball_->ball.draw(shaders["mesh"], scene.camera);
 
     if( gui_scene.wireframe ){ // wireframe if asked from the GUI
         glPolygonOffset( 1.0, 1.0 );
