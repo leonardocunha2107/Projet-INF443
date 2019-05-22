@@ -38,6 +38,8 @@ struct scene_exercise : base_scene_exercise
     int texture_skybox;
     vcl::mesh create_skybox();
     vcl :: mesh_drawable skybox;
+    vcl::mesh eclipsoid(float rx,float ry,float rz, const vcl::vec3& p0, size_t Nu, size_t Nv);
+    vcl::mesh_drawable_hierarchy hierarchy;
 };
 
 
