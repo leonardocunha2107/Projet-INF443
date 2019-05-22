@@ -30,10 +30,14 @@ struct scene_exercise : base_scene_exercise
 
     // visual representation of a surface
     vcl::mesh_drawable terrain;
-    int sand_texture;
-    vcl::timer_interval timer;
+    vcl::timer_event timer;
     vcl :: mesh_drawable_hierarchy bob_;
     gui_scene_structure gui_scene;
+    int sand_texture;
+    int bob_texture;
+    int texture_skybox;
+    vcl::mesh create_skybox();
+    vcl :: mesh_drawable skybox;
 };
 
 

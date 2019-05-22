@@ -172,6 +172,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/main.cpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/project_scene.hpp
@@ -262,11 +263,14 @@ CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.cpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/core.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
@@ -353,9 +357,108 @@ CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.cpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/core.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/helper.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/math.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/opengl.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/picking.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/scene.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/mesh_loader.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/polygon_loader.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/shape.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/external_lib.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/glfw.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/glad.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/glfw.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/imgui.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/lodepng.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/simplexnoise.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/vcl.hpp
+CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.o
+ ../../external/imgui/imconfig.h
+ ../../external/imgui/imgui.h
+ ../../external/imgui/imgui_impl_glfw.h
+ ../../external/imgui/imgui_impl_opengl3.h
+ ../../src/vcl/core/math/mat/mat3/mat3.hpp
+ ../../src/vcl/core/math/math.hpp
+ ../../src/vcl/core/math/vec/vec2/vec2.hpp
+ ../../src/vcl/core/math/vec/vec3/vec3.hpp
+ ../../src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
+ ../../src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
+ ../../src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
+ ../../src/vcl/core/opengl/texture/image/image.hpp
+ ../../src/vcl/core/scene/camera/camera.hpp
+ ../../src/vcl/core/shape/mesh/mesh.hpp
+ ../../src/vcl/external_lib/headers/glad.hpp
+ ../../src/vcl/external_lib/headers/glfw.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/core.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
@@ -442,11 +545,14 @@ CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.cpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/core.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
@@ -536,6 +642,7 @@ CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+ /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
  /home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/project_scene.cpp

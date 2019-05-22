@@ -609,6 +609,33 @@ home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.cpp
 	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.cpp.s
 .PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.cpp.s
 
+home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.o: home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.o
+
+.PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.o
+
+# target to build an object file
+home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.o:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.o
+.PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.o
+
+home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.i: home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.i
+
+.PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.i
+
+# target to preprocess a source file
+home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.i:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.i
+.PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.i
+
+home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.s: home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.s
+
+.PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.s
+
+# target to generate assembly for a file
+home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.s:
+	$(MAKE) -f CMakeFiles/pgm.dir/build.make CMakeFiles/pgm.dir/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.s
+.PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp.s
+
 home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.o: home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.cpp.o
 
 .PHONY : home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.o
@@ -1914,6 +1941,9 @@ help:
 	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.o"
 	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.i"
 	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.s"
+	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.o"
+	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.i"
+	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.s"
 	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.o"
 	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.i"
 	@echo "... home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.s"

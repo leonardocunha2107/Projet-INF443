@@ -2,6 +2,7 @@
 
 
 class Ball : public Model{
+    float t_;
     public:
         vcl :: vec3 v;
         vcl :: vec3 x;
