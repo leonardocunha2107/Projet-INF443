@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -270,7 +270,7 @@ array
 GLFW/glfw3.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/earcut/earcut.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/earcut/earcut.hpp
 algorithm
 -
 cassert
@@ -282,7 +282,7 @@ memory
 vector
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
 windows.h
 -
 stddef.h
@@ -300,7 +300,7 @@ stdint.h
 inttypes.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/src/glad.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/glad/src/glad.cpp
 stdio.h
 -
 stdlib.h
@@ -308,7 +308,7 @@ stdlib.h
 string.h
 -
 ../include/glad/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
 windows.h
 -
 winapifamily.h
@@ -316,15 +316,15 @@ winapifamily.h
 dlfcn.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imconfig.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imconfig.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.cpp
 stb_image.h
 -
 imgui.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.h
 imgui_internal.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_internal.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_internal.h
 ctype.h
 -
 stdio.h
@@ -340,11 +340,11 @@ windows.h
 imm.h
 -
 imgui_user.inl
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_user.inl
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_user.inl
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.h
 imconfig.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imconfig.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imconfig.h
 float.h
 -
 stdarg.h
@@ -358,11 +358,11 @@ assert.h
 stdint.h
 -
 imgui_user.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_user.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_user.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_demo.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_demo.cpp
 imgui.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.h
 ctype.h
 -
 limits.h
@@ -378,11 +378,11 @@ stddef.h
 stdint.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_draw.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_draw.cpp
 imgui.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.h
 imgui_internal.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_internal.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_internal.h
 stdio.h
 -
 alloca.h
@@ -392,27 +392,27 @@ malloc.h
 stdlib.h
 -
 imstb_rectpack.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imstb_rectpack.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imstb_rectpack.h
 imstb_truetype.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imstb_truetype.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imstb_truetype.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.cpp
 imgui.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.h
 imgui_impl_glfw.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.h
 GLFW/glfw3.h
 -
 GLFW/glfw3native.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_impl_glfw.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.cpp
 imgui.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.h
 imgui_impl_opengl3.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.h
 stdio.h
 -
 stddef.h
@@ -420,7 +420,7 @@ stddef.h
 stdint.h
 -
 TargetConditionals.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/TargetConditionals.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/TargetConditionals.h
 GLES3/gl3.h
 -
 GL/gl3w.h
@@ -428,11 +428,11 @@ GL/gl3w.h
 GL/glew.h
 -
 ../glad/include/glad/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_impl_opengl3.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_internal.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_internal.h
 stdio.h
 -
 stdlib.h
@@ -442,13 +442,13 @@ math.h
 limits.h
 -
 imstb_textedit.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imstb_textedit.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imstb_textedit.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_widgets.cpp
 imgui.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui.h
 imgui_internal.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imgui_internal.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imgui_internal.h
 ctype.h
 -
 stddef.h
@@ -456,25 +456,25 @@ stddef.h
 stdint.h
 -
 imstb_textedit.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imstb_textedit.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imstb_textedit.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imstb_rectpack.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imstb_rectpack.h
 stdlib.h
 -
 assert.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imstb_textedit.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imstb_textedit.h
 string.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/imstb_truetype.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/imstb_truetype.h
 stb_truetype.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/stb_truetype.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/stb_truetype.h
 stdio.h
 -
 stb_truetype.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/imgui/stb_truetype.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/imgui/stb_truetype.h
 math.h
 -
 math.h
@@ -494,9 +494,9 @@ string.h
 string.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/lodepng/lodepng.cpp
 lodepng.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/lodepng/lodepng.h
 limits.h
 -
 stdio.h
@@ -504,7 +504,7 @@ stdio.h
 stdlib.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/lodepng/lodepng.h
 string.h
 -
 vector
@@ -512,15 +512,15 @@ vector
 string
 -
 lodepng.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/lodepng/lodepng.h
 iostream
 -
 lodepng.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/lodepng/lodepng.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/dbfopen.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/dbfopen.cpp
 shapefil.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shapefil.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shapefil.h
 math.h
 -
 stdlib.h
@@ -530,11 +530,11 @@ ctype.h
 string.h
 -
 cpl_string.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/cpl_string.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/cpl_string.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/safileio.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/safileio.cpp
 shapefil.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shapefil.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shapefil.h
 math.h
 -
 limits.h
@@ -550,9 +550,9 @@ stdio.h
 windows.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/sbnsearch.cpp
 shapefil.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shapefil.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shapefil.h
 math.h
 -
 assert.h
@@ -562,17 +562,17 @@ stdlib.h
 string.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shapefil.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shapefil.h
 stdio.h
 -
 dbmalloc.h
 -
 cpl_conv.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/cpl_conv.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/cpl_conv.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shpopen.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shpopen.cpp
 shapefil.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shapefil.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shapefil.h
 math.h
 -
 limits.h
@@ -588,9 +588,9 @@ stdio.h
 errno.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shptree.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shptree.cpp
 shapefil.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shapefil.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shapefil.h
 math.h
 -
 assert.h
@@ -602,61 +602,61 @@ string.h
 limits.h
 -
 cpl_error.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/cpl_error.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/cpl_error.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.cpp
 simplexnoise1234.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/helper_scene.cpp
 helper_scene.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/helper_scene.hpp
 GLFW/glfw3.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/helper_scene.hpp
 vcl/vcl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/vcl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/vcl.hpp
 map
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/main.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/main.cpp
 vcl/vcl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/vcl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/vcl.hpp
 helper_scene.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/helper_scene.hpp
 stdio.h
 -
 project_scene.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/project_scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/project_scene.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/ball/ball.cpp
 time.h
 -
 stdlib.h
 -
 ../models.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/models.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/ball/ball.hpp
 ../model.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/model.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/bob/bob.cpp
 ../../vcl/vcl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/vcl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/vcl.hpp
 ../models.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/models.hpp
 math.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/bob/bob.hpp
 ../model.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/model.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/gary/gary.cpp
 time.h
 -
 stdlib.h
@@ -664,61 +664,61 @@ stdlib.h
 stdio.h
 -
 ../models.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/models.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/gary/gary.hpp
 ../model.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/model.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/house/house.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/house/house.cpp
 house.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/house/house.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/house/house.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/house/house.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/house/house.hpp
 ../model.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/model.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/model.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/model.hpp
 ../vcl/vcl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/vcl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/vcl.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/models.cpp
 models.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/models.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/models.hpp
 bob/bob.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/bob/bob.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/bob/bob.hpp
 ball/ball.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/ball/ball.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/ball/ball.hpp
 gary/gary.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/gary/gary.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/gary/gary.hpp
 ../tool/base_exercise.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/tool/base_exercise.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/project_scene.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/project_scene.cpp
 project_scene.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/project_scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/project_scene.hpp
 stdio.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/project_scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/project_scene.hpp
 tool/base_exercise.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/tool/base_exercise.hpp
 models/models.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/models.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/models.hpp
 models/house/house.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/models/house/house.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/models/house/house.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/tool/base_exercise.cpp
 base_exercise.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/tool/base_exercise.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/tool/base_exercise.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/tool/base_exercise.hpp
 ../vcl/vcl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/vcl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/vcl.hpp
 ../helper_scene.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/helper_scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/helper_scene.hpp
 string
 -
 map
@@ -726,127 +726,127 @@ map
 vector
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/core.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/core.hpp
 helper/helper.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/helper.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/helper.hpp
 math/math.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/math.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/math.hpp
 opengl/opengl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/opengl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/opengl.hpp
 scene/scene.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/scene.hpp
 shape/shape.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/shape.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/shape.hpp
 drawable/drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.cpp
 curve_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
 vcl/core/opengl/opengl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/vcl/core/opengl/opengl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/vcl/core/opengl/opengl.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
 vcl/core/opengl/curve_gpu/curve_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/vcl/core/opengl/curve_gpu/curve_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/vcl/core/opengl/curve_gpu/curve_gpu.hpp
 vcl/core/scene/camera/camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/vcl/core/scene/camera/camera.hpp
 ../drawable_uniform/drawable_uniform.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp
 curve_dynamic_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
 ../curve_drawable/curve_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable.hpp
 mesh_drawable/mesh_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
 segments_drawable/segments_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.hpp
 curve_drawable/curve_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
 curve_dynamic_drawable/curve_dynamic_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp
 segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
 mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.cpp
 drawable_uniform.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
 vcl/core/math/vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/vcl/core/math/vec/vec3/vec3.hpp
 vcl/core/math/mat/mat3/mat3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/vcl/core/math/mat/mat3/mat3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/vcl/core/math/mat/mat3/mat3.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.cpp
 mesh_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
 vcl/core/opengl/opengl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/opengl/opengl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/opengl/opengl.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
 vcl/core/shape/mesh/mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/shape/mesh/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/shape/mesh/mesh.hpp
 vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
 vcl/core/math/math.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/math/math.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/math/math.hpp
 vcl/core/scene/camera/camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/vcl/core/scene/camera/camera.hpp
 ../drawable_uniform/drawable_uniform.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.cpp
 mesh_drawable_hierarchy.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable_hierarchy/mesh_drawable_hierarchy.hpp
 ../mesh_drawable/mesh_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/mesh_drawable/mesh_drawable.hpp
 vector
 -
 map
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.cpp
 segment_drawable_immediate_mode.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
 vcl/core/opengl/opengl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/vcl/core/opengl/opengl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/vcl/core/opengl/opengl.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/segment_drawable_immediate_mode.hpp
 vcl/core/opengl/segments_gpu/segments_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/vcl/core/opengl/segments_gpu/segments_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/vcl/core/opengl/segments_gpu/segments_gpu.hpp
 vcl/core/scene/camera/camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segment_drawable_immediate_mode/vcl/core/scene/camera/camera.hpp
 ../drawable_uniform/drawable_uniform.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.cpp
 segments_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.hpp
 vcl/core/opengl/opengl.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/vcl/core/opengl/opengl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/vcl/core/opengl/opengl.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/segments_drawable.hpp
 vcl/core/opengl/segments_gpu/segments_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/vcl/core/opengl/segments_gpu/segments_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/vcl/core/opengl/segments_gpu/segments_gpu.hpp
 vcl/core/scene/camera/camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/segments_drawable/vcl/core/scene/camera/camera.hpp
 ../drawable_uniform/drawable_uniform.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/drawable_uniform/drawable_uniform.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/file/file.cpp
 file.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
 fstream
 -
 iostream
@@ -854,21 +854,21 @@ iostream
 cassert
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
 string
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/helper.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/helper.hpp
 string/string.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/string/string.hpp
 file/file.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/string/string.cpp
 string.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/string/string.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/string/string.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/string/string.hpp
 string
 -
 vector
@@ -876,103 +876,103 @@ vector
 array
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat.hpp
 mat/mat.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
 mat2/mat2.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.hpp
 mat3/mat3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
 mat4/mat4.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
 ../../vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
 array
 -
 cassert
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.cpp
 mat2.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.hpp
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat2/mat2.hpp
 ../mat/mat.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
 ../../vec/vec2/vec2.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.cpp
 mat3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
 ../mat/mat.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
 ../../vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.cpp
 mat4.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
 ../../mat/mat3/mat3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
 ../../vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
 ../mat/mat.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat/mat.hpp
 ../../vec/vec4/vec4.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/math.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/math.hpp
 numerics/numerics.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.hpp
 vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
 mat/mat.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat.hpp
 transformation/transformation.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.cpp
 numerics.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.hpp
 cmath
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/numerics/numerics.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.cpp
 transformation.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
 ../vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
 ../mat/mat.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
 vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
 vec2/vec2.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
 vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
 vec4/vec4.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
 array
 -
 cmath
@@ -982,121 +982,121 @@ cassert
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.cpp
 vec2.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
 iostream
 -
 cassert
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec2/vec2.hpp
 ../vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.cpp
 vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
 iostream
 -
 cassert
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
 ../vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.cpp
 vec4.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
 iostream
 -
 cassert
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec4/vec4.hpp
 ../vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec/vec.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.cpp
 curve_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
 vcl/core/helper/helper.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/core/helper/helper.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/core/helper/helper.hpp
 vcl/core/opengl/debug/opengl_debug.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/core/opengl/debug/opengl_debug.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/core/opengl/debug/opengl_debug.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
 vcl/external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/external_lib/headers/glad.hpp
 vcl/core/math/vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/vcl/core/math/vec/vec3/vec3.hpp
 vector
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.cpp
 opengl_debug.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.hpp
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.hpp
 ../../../external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/glad.hpp
 string
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp
 mesh_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
 vcl/core/helper/helper.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/core/helper/helper.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/core/helper/helper.hpp
 vcl/core/opengl/debug/opengl_debug.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/core/opengl/debug/opengl_debug.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/core/opengl/debug/opengl_debug.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
 vcl/external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/external_lib/headers/glad.hpp
 vcl/core/shape/mesh/mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/core/shape/mesh/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/vcl/core/shape/mesh/mesh.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/opengl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/opengl.hpp
 debug/opengl_debug.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/debug/opengl_debug.hpp
 shader/shader.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.hpp
 uniform/uniform.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.hpp
 mesh_gpu/mesh_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp
 texture/texture.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture.hpp
 segments_gpu/segments_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
 curve_gpu/curve_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/curve_gpu/curve_gpu.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.cpp
 segments_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
 vcl/core/helper/helper.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/core/helper/helper.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/core/helper/helper.hpp
 vcl/core/opengl/debug/opengl_debug.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/core/opengl/debug/opengl_debug.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/core/opengl/debug/opengl_debug.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/segments_gpu.hpp
 vcl/external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/external_lib/headers/glad.hpp
 vcl/core/math/vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/segments_gpu/vcl/core/math/vec/vec3/vec3.hpp
 vector
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.cpp
 shader.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.hpp
 ../../helper/file/file.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
 vector
 -
 iostream
@@ -1104,339 +1104,339 @@ iostream
 cassert
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/shader/shader.hpp
 vcl/external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/shader/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/shader/vcl/external_lib/headers/glad.hpp
 string
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.cpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.hpp
 vector
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture.hpp
 image/image.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.hpp
 texture_gpu/texture_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.cpp
 texture_gpu.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/texture_gpu.hpp
 vcl/external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/texture_gpu/vcl/external_lib/headers/glad.hpp
 ../image/image.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/texture/image/image.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.cpp
 uniform.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/uniform/uniform.hpp
 vcl/core/math/math.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/vcl/core/math/math.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/uniform/vcl/core/math/math.hpp
 vcl/external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/opengl/uniform/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/opengl/uniform/vcl/external_lib/headers/glad.hpp
 string
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.cpp
 camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
 ../../math/transformation/transformation.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/transformation/transformation.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
 ../../math/vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec3/vec3.hpp
 ../../math/mat/mat4/mat4.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat4/mat4.hpp
 ../../math/mat/mat3/mat3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/mat/mat3/mat3.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.cpp
 camera_control_glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.hpp
 ../camera/camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
 GLFW/glfw3.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.cpp
 picking_info.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
 vcl/core/math/vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/info/vcl/core/math/vec/vec3/vec3.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/picking.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/picking.hpp
 ray/picking_ray.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
 primitives/picking_primitives.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.hpp
 info/picking_info.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.cpp
 picking_primitives.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/primitives/picking_primitives.hpp
 ../ray/picking_ray.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
 ../info/picking_info.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/info/picking_info.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.cpp
 picking_ray.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/picking_ray.hpp
 vcl/core/math/vec/vec3/vec3.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/vcl/core/math/vec/vec3/vec3.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/vcl/core/math/vec/vec3/vec3.hpp
 vcl/core/scene/camera/camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/ray/vcl/core/scene/camera/camera.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/scene.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/scene.hpp
 camera/camera.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera/camera.hpp
 camera_control_glfw/camera_control_glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/camera_control_glfw/camera_control_glfw.hpp
 time_slider/time_slider.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.hpp
 screen_motion/screen_motion.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.hpp
 time_period/time_period.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.hpp
 picking/picking.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/picking/picking.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/picking/picking.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.cpp
 screen_motion.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/screen_motion.hpp
 vcl/core/math/vec/vec2/vec2.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/vcl/core/math/vec/vec2/vec2.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/screen_motion/vcl/core/math/vec/vec2/vec2.hpp
 list
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.cpp
 time_period.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.hpp
 ../../../external_lib/headers/glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/glfw.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_period/time_period.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.cpp
 time_slider.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.hpp
 vcl/external_lib/headers/glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/vcl/external_lib/headers/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_slider/vcl/external_lib/headers/glfw.hpp
 cassert
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/scene/time_slider/time_slider.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh.hpp
 mesh_structure/mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
 mesh_primitive/mesh_primitive.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp
 mesh_loader/mesh_loader.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/mesh_loader.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/mesh_loader.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/mesh_loader.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/mesh_loader.hpp
 obj/obj.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.cpp
 obj.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp
 ../../../../helper/file/file.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
 fstream
 -
 sstream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp
 ../../mesh_structure/mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.cpp
 mesh_primitive.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp
 vcl/core/math/math.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/vcl/core/math/math.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/vcl/core/math/math.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp
 ../mesh_structure/mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.cpp
 mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh_structure/mesh.hpp
 ../../../math/vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
 vector
 -
 array
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon.hpp
 polygon_loader/polygon_loader.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/polygon_loader.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/polygon_loader.hpp
 polygon_structure/polygon.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/polygon_loader.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/polygon_loader.hpp
 shp/shp.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.cpp
 shp.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.hpp
 ../../../../../../../external/shapelib/shapefil.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/shapelib/shapefil.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/shapelib/shapefil.h
 ../../../../helper/file/file.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/helper/file/file.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_loader/shp/shp.hpp
 ../../polygon_structure/polygon.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.cpp
 polygon.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
 ../../../../../../external/earcut/earcut.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/earcut/earcut.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/earcut/earcut.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon_structure/polygon.hpp
 ../../../math/vec/vec.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/math/vec/vec.hpp
 ../../../drawable/curve_drawable/curve_drawable.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/drawable/curve_drawable/curve_drawable.hpp
 ../../../shape/mesh/mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh.hpp
 vector
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/shape.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/shape.hpp
 mesh/mesh.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/mesh/mesh.hpp
 polygon/polygon.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/shape/polygon/polygon.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/external_lib.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/external_lib.hpp
 glfw/glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/glfw.hpp
 imgui/imgui.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.hpp
 lodepng/lodepng.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.hpp
 perlin/perlin.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.cpp
 fps_counter.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.hpp
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.hpp
 vcl/external_lib/headers/glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/vcl/external_lib/headers/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/vcl/external_lib/headers/glfw.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/glfw.hpp
 window/window.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.hpp
 fps_counter/fps_counter.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/fps_counter/fps_counter.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.cpp
 window.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.hpp
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/window.hpp
 vcl/external_lib/headers/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/vcl/external_lib/headers/glad.hpp
 vcl/external_lib/headers/glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/vcl/external_lib/headers/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/glfw/window/vcl/external_lib/headers/glfw.hpp
 string
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/glad.hpp
 ../../../../external/glad/include/glad/glad.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/glad/include/glad/glad.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/glfw.hpp
 GLFW/glfw3.h
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/imgui.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/imgui.hpp
 ../external/imgui/imgui.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/external/imgui/imgui.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/external/imgui/imgui.h
 ../external/imgui/imgui_impl_glfw.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/external/imgui/imgui_impl_glfw.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/external/imgui/imgui_impl_glfw.h
 ../external/imgui/imgui_impl_opengl3.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/external/imgui/imgui_impl_opengl3.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/external/imgui/imgui_impl_opengl3.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/lodepng.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/lodepng.hpp
 ../../../../external/lodepng/lodepng.h
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/lodepng/lodepng.h
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/lodepng/lodepng.h
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/simplexnoise.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/simplexnoise.hpp
 ../../../../external/simplexnoise/simplexnoise1234.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/external/simplexnoise/simplexnoise1234.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.cpp
 imgui.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/imgui/imgui.hpp
 ../headers/imgui.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/imgui.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/imgui.hpp
 ../headers/glfw.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/glfw.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/glfw.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.cpp
 lodepng.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.hpp
 iostream
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/lodepng/lodepng.hpp
 ../headers/lodepng.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/lodepng.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/lodepng.hpp
 vcl/core/opengl/texture/image/image.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/lodepng/vcl/core/opengl/texture/image/image.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/lodepng/vcl/core/opengl/texture/image/image.hpp
 string
 -
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.cpp
 perlin.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/perlin/perlin.hpp
 ../headers/simplexnoise.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/headers/simplexnoise.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/headers/simplexnoise.hpp
 
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/vcl.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/vcl.hpp
 core/core.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/core/core.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/core/core.hpp
 external_lib/external_lib.hpp
-/home/leonardocunha/Professional/X/P3/INF443/Projet-INF443/src/vcl/external_lib/external_lib.hpp
+/users/eleves-a/2017/julien.agier/INF443/Projet-INF443/src/vcl/external_lib/external_lib.hpp
 
