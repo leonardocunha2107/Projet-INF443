@@ -2,6 +2,7 @@
 
 #include "tool/base_exercise.hpp"
 #include "models/models.hpp"
+#include "models/house/house.hpp"
 
 // Stores some parameters that can be set from the GUI
 struct gui_scene_structure
@@ -31,15 +32,13 @@ struct scene_exercise : base_scene_exercise
     // visual representation of a surface
     vcl::mesh_drawable terrain;
     vcl::timer_event timer;
-    vcl :: mesh_drawable_hierarchy bob_;
     gui_scene_structure gui_scene;
     int sand_texture;
     int bob_texture;
     int texture_skybox;
     vcl::mesh create_skybox();
     vcl :: mesh_drawable skybox;
-    vcl::mesh eclipsoid(float rx,float ry,float rz, const vcl::vec3& p0, size_t Nu, size_t Nv);
-    vcl::mesh_drawable_hierarchy hierarchy;
+    vcl::mesh_drawable_hierarchy house_;
 };
 
 

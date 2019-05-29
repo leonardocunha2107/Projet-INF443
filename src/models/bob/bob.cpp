@@ -54,16 +54,20 @@ mesh body(float c,float b ,float a){
         {23,22,21}, {23,21,20}, {13,12,14}, {13,14,15}
     };
 
+    a=a/(3*a+2*c);
+    b=b/(3*b+2*c);
+    float cx=c/(3*a+2*c);
+    float cy = c/(3*b+2*c);
     const float e = 1e-3f;
     const float u0 = 0.0f;
-    const float u1 = 0.25f+e;
-    const float u2 = 0.5f-e;
+    const float u1 = a+cx-0.1;
+    const float u2 = 2*a+cx-e;
     const float u3 = 0.75f-e;
     const float u4 = 1.0f;
-    const float v0 = 0.0f;
-    const float v1 = 1.0f/3.0f+e;
-    const float v2 = 2.0f/3.0f-e;
-    const float v3 = 1.0f;
+    const float v0 = 1.0f;
+    const float v1 = 2.0f/3.0f+e;
+    const float v2 = 1.0f/3.0f-e;
+    const float v3 = 0.0f;
     skybox.texture_uv = {
         {u1,v1}, {u2,v1}, {u2,v2}, {u1,v2},
         {u1,v2}, {u2,v2}, {u2,v3}, {u1,v3},

@@ -20,7 +20,7 @@ mesh mesh_primitive_sphere(float radius=1.0f, const vec3& p0={0,0,0}, size_t Nu=
 mesh mesh_primitive_cylinder(float radius=0.2f, const vec3& p1={0,0,0}, const vec3& p2={0,0,1}, size_t Nu=10, size_t Nv=10);
 mesh mesh_primitive_cone(float radius=0.2f, const vec3& p_base={0,0,0}, const vec3& p_extremity={0,0,1}, size_t Nu=20, size_t Nv=10);
 
-
+mesh eclipsoid(float rx,float ry, float rz, const vec3& p0, size_t Nu, size_t Nv);
 
 mesh mesh_primitive_disc(float radius=1.0f, const vec3& p0={0,0,0}, const vec3& n={0,0,1}, size_t N=20);
 

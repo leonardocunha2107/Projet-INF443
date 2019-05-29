@@ -91,6 +91,33 @@ mesh mesh_primitive_sphere(float radius, const vec3& p0, size_t Nu, size_t Nv)
 
     return shape;
 }
+mesh eclipsoid(float rx,float ry, float rz, const vec3& p0, size_t Nu, size_t Nv)
+{
+    mesh shape;
+    for( size_t ku=0; ku<Nu; ++ku ) {
+        for( size_t kv=0; kv<Nv; ++kv ) {
+
+            const float u = static_cast<float>(ku)/static_cast<float>(Nu-1);
+            const float v = static_cast<float>(kv)/static_cast<float>(Nv);
+
+            const float theta = static_cast<float>( 3.14159f*u );
+            const float phi   = static_cast<float>( 2*3.14159f*v );
+
+            const float x = rx * std::sin(theta) * std::cos(phi);
+            const float y = ry * std::sin(theta) * std::sin(phi);
+            const float z = rz * std::cos(theta);
+            const vec3 p = {x,y,z};
+            const vec3 n = normalize(p);
+
+            shape.position.push_back( p+p0 );
+            shape.normal.push_back( n );
+        }
+    }
+
+    shape.connectivity = connectivity_grid(Nu, Nv, false, true);
+
+    return shape;
+}
 
 mesh mesh_primitive_cylinder(float radius,  const vec3& p1, const vec3& p2, size_t Nu, size_t Nv)
 {
