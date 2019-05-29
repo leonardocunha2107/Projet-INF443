@@ -7,6 +7,6 @@ class Gary : public Model{
         void update(float t);
         vcl :: vec3 x;
         vcl :: vec3 x0;
-        vcl :: mesh_drawable gary;
+        vcl :: mesh_drawable_hierarchy gary;
         Gary();
 };
