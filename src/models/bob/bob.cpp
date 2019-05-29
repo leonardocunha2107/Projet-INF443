@@ -123,6 +123,7 @@ mesh_drawable_hierarchy spongebob(){
                           0,1,0};
     float y=3.14/4;
     bob.rotation("left arm")=rotation_from_axis_angle_mat3({0,0,1},y);
+    bob.translation("head")={0,-10,0};
     return bob;
 }
 

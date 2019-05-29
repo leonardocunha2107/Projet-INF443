@@ -82,4 +82,5 @@ mesh create_cone(float radius, float height, float offset)
     hierarchy.add_element(windowD, "window2", "house", {-0.1f,-house_width/3.0f, height_house/3.0f});
     hierarchy.add_element(door, "door", "house", {0.0f,-house_width/4.0f, 0.0f});
     //end house stuff
+    return hierarchy;
 }

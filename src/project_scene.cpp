@@ -23,6 +23,7 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     terrain = create_terrain();
     //terrain.uniform_parameter.color = {0.6f,0.85f,0.5f};
     terrain.uniform_parameter.shading.specular = 0.0f; // non-specular terrain material
+    terrain.uniform_parameter.scaling=2.0f;
     sand_texture=texture_gpu( image_load_png("data/sand.png") );
     bob_texture=texture_gpu(image_load_png("data/SpongeFace1.png"));
     // Setup initial camera mode and position
@@ -38,9 +39,10 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     texture_skybox = texture_gpu(image_load_png("data/bikiniBottomBox.png"));
 
     m->bob_->bob_.mesh_visual("head").uniform_parameter.shading.ambiant=1;
-    
     printf("hey\n");
     house_=house_bob();
+    house_.translation("house")={-10,-15,5};
+    house_.rotation("head") = rotation_from_axis_angle_mat3({0,0,1},3.014f/2.0f);
     printf("hey\n");
 }
 
@@ -70,8 +72,8 @@ void scene_exercise::frame_draw(std::map<std::string,GLuint>& shaders, scene_str
 
 
     glBindTexture(GL_TEXTURE_2D,texture_skybox);
-    skybox.uniform_parameter.scaling = 150.0f;
-    skybox.uniform_parameter.translation = scene.camera.camera_position() + vec3(0,0,-50.0f);
+    skybox.uniform_parameter.scaling = 50.0f;
+    skybox.uniform_parameter.translation = scene.camera.camera_position() + vec3(0,0,-10.0f);
     skybox.draw(shaders["mesh"], scene.camera);
     glBindTexture(GL_TEXTURE_2D,scene.texture_white);
     
@@ -95,7 +97,7 @@ vec3 evaluate_terrain(float u, float v)
 {
     const float x = 20*(u-0.5f);
     const float y = 20*(v-0.5f);
-    const float z = FLOOR;
+    const float z = FLOOR/2;
 
     return {x,y,z};
 }

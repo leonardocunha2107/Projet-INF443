@@ -29,7 +29,7 @@ void Gary :: update(float t){
  Gary :: Gary(){
     //TODO
     gary=mesh_primitive_parallelepiped({0,0,FLOOR},{0.2,0,0},{0,0.2,0},{0,0,0.2});
-    x=Models ::bob_->bob_.mesh_visual("head").uniform_parameter.translation;
+    x=Models ::bob_->bob_.translation("head");
     gary.uniform_parameter.translation =x;
     x0=x;
 }
