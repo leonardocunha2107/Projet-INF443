@@ -41,7 +41,7 @@ void Ball :: update(float t){
     }
 
     if(Models :: s ==3)
-        x=Models :: gary_->x+vec3({0.2,0,FLOOR+0.2});
+        x=Models :: gary_->x+vec3({0,0,FLOOR+0.2})+(0.5*normalize(Models :: gary_->v));
 
      t_=t;
      ball.uniform_parameter.translation=x;

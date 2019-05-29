@@ -2,25 +2,36 @@
 #include <stdlib.h> 
 #include <stdio.h>
 #include "../models.hpp"
-
+#include <math.h>
 using namespace vcl;
 
 void Gary :: update(float t){
     if(Models :: s==2){
-        vec3 v =Models ::ball_->x-x;
+         v =Models ::ball_->x-x;
         v.z=0;
-        
         if(norm(v)<0.5)
             Models :: s =3;
         v=normalize(v);
+
+        float angle;
+        if(v.x>0) angle=-std::acos(v.y);
+        else angle=std::acos(v.y);
+
+        gary.rotation("base")=rotation_from_axis_angle_mat3({0,0,1},angle);
         x=x+(v*0.015);
     }
     if(Models :: s==3){
-        vec3 v = x0-x;
+         v = x0-x;
         v.z=0;
         if(norm(v)<0.5)
             Models :: s =0;
         v=normalize(v);
+        float angle;
+        if(v.x>0) angle=-std::acos(v.y);
+        else angle=std::acos(v.y);
+
+
+        gary.rotation("base")=rotation_from_axis_angle_mat3({0,0,1},angle);
         x=x+(v*0.015);
     }
     gary.translation("base") =x;
@@ -63,7 +74,8 @@ void Gary :: update(float t){
     gary.add_element(antenna, "antenna2","base",{base_width/3,base_length*0.9f, -antenna_height-base_height/5},R2_foliage*R1_foliage);
     gary.add_element(eye, "eye1","antenna1",{0,0,0});
     gary.add_element(eye, "eye2","antenna2",{0,0,0});
-    x=Models ::bob_->bob_.translation("head");
+    x=Models ::bob_->bob_.translation("head")+vec3({0,0.25,0});;
     gary.translation("base") =x;
     x0=x;
+    v={0,0,0};
 }   
