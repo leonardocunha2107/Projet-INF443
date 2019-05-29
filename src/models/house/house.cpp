@@ -3,7 +3,33 @@
 using namespace vcl;
 
 
+mesh eclipse(float rx,float ry, float rz, const vec3& p0, size_t Nu, size_t Nv)
+{
+    mesh shape;
+    for( size_t ku=0; ku<Nu; ++ku ) {
+        for( size_t kv=0; kv<Nv; ++kv ) {
 
+            const float u = static_cast<float>(ku)/static_cast<float>(Nu-1);
+            const float v = static_cast<float>(kv)/static_cast<float>(Nv);
+
+            const float theta = static_cast<float>( 3.14159f*u );
+            const float phi   = static_cast<float>( 2*3.14159f*v );
+
+            const float x = rx * std::sin(theta) * std::cos(phi);
+            const float y = ry * std::sin(theta) * std::sin(phi);
+            const float z = rz * std::cos(theta);
+            const vec3 p = {x,y,z};
+            const vec3 n = normalize(p);
+
+            shape.position.push_back( p+p0 );
+            shape.normal.push_back( n );
+        }
+    }
+
+    shape.connectivity = connectivity_grid(Nu, Nv, false, true);
+
+    return shape;
+}
 mesh create_cone(float radius, float height, float offset)
 {
     // Number of samples of the cylinder is N x N
@@ -53,7 +79,7 @@ mesh create_cone(float radius, float height, float offset)
     const mat3 R2_foliage = rotation_from_axis_angle_mat3({0,0,1}, 3.14f*2/3.0f);
 
 
-    mesh_drawable house = eclipsoid(house_width, house_width,height_house,{0.0f,0.0f,0.0f},20,20);
+    mesh_drawable house = eclipse(house_width, house_width,height_house,{0.0f,0.0f,0.0f},20,20);
     house.uniform_parameter.color={1.0f, 0.7f, 0.0f};
 
     mesh foliage = create_cone(0.3f*scale,foliage_height,0.0f);

@@ -4,6 +4,7 @@
 #include "gary/gary.hpp"
 #include "../tool/base_exercise.hpp"
 
+
 #define FLOOR -0.7
 class Models{
     public:

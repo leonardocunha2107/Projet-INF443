@@ -5,6 +5,7 @@
 class Model{
     public:
         virtual void update(float t)=0;
+       
         
 };
 

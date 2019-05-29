@@ -39,25 +39,12 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     texture_skybox = texture_gpu(image_load_png("data/bikiniBottomBox.png"));
 
     m->bob_->bob_.mesh_visual("head").uniform_parameter.shading.ambiant=1;
-    printf("hey\n");
     house_=house_bob();
-    house_.translation("house")={-10,-15,5};
+    house_.translation("house")={-10,-15,0.75};
     house_.rotation("head") = rotation_from_axis_angle_mat3({0,0,1},3.014f/2.0f);
-    printf("hey\n");
 
-
-    // Create a quad with (u,v)-texture coordinates
-    mesh surface_cpu;
-    surface_cpu.position     = {{-0.2f,0,0}, { 0.2f,0,0}, { 0.2f, 0.4f,0}, {-0.2f, 0.4f,0}};
-    surface_cpu.texture_uv   = {{0,1}, {1,1}, {1,0}, {0,0}};
-    surface_cpu.connectivity = {{0,1,2}, {0,2,3}};
-
-    surface_bubble = surface_cpu;
-    surface_bubble.uniform_parameter.shading = {1,0,0}; // set pure ambiant component (no diffuse, no specular) - allow to only see the color of the texture
-
-
-    // Load a texture (with transparent background)
-    texture_id_bubble_billboard = texture_gpu( image_load_png("data/bubble.png") );
+    bubs= new Bubbles(100);
+    
 
 }
 
@@ -79,51 +66,25 @@ void scene_exercise::frame_draw(std::map<std::string,GLuint>& shaders, scene_str
     house_.draw(shaders["mesh"], scene.camera);
     m->ball_->ball.draw(shaders["mesh"], scene.camera);
     m->gary_->gary.draw(shaders["mesh"], scene.camera);
-    
+       
+
     glBindTexture(GL_TEXTURE_2D, sand_texture);
     terrain.draw(shaders["mesh"], scene.camera);
-
-
-
-
     glBindTexture(GL_TEXTURE_2D,texture_skybox);
     skybox.uniform_parameter.scaling = 50.0f;
     skybox.uniform_parameter.translation = scene.camera.camera_position() + vec3(0,0,-10.0f);
     skybox.draw(shaders["mesh"], scene.camera);
+
     glBindTexture(GL_TEXTURE_2D,scene.texture_white);
     
     if( gui_scene.wireframe ){ // wireframe if asked from the GUI
         glPolygonOffset( 1.0, 1.0 );
         terrain.draw(shaders["wireframe"], scene.camera);
     }
+    bubs->update();
+    bubs->draw(scene,shaders); 
 
-    //draw the house
-   
-    // Enable use of alpha component as color blending for transparent elements
-    //  new color = previous color + (1-alpha) current color
-    glEnable(GL_BLEND);
-    glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-
-    // Disable depth buffer writing
-    //  - Transparent elements cannot use depth buffer
-    //  - They are supposed to be display from furest to nearest elements
-    glDepthMask(false);
-
-
-    glBindTexture(GL_TEXTURE_2D, texture_id_bubble_billboard);
-    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_CLAMP_TO_EDGE); // avoids sampling artifacts
-    glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE); // avoids sampling artifacts
-
-    // Display a billboard always facing the camera direction
-    // ********************************************************** //
-    surface_bubble.uniform_parameter.rotation = scene.camera.orientation;
-    surface_bubble.uniform_parameter.translation = {0.25f,0,-0.5f};
-    surface_bubble.draw(shaders["mesh"], scene.camera);
-    if(gui_scene.wireframe)
-        surface_bubble.draw(shaders["wireframe"], scene.camera);
-
-    glBindTexture(GL_TEXTURE_2D, scene.texture_white);
-    glDepthMask(true);
+    
 
 }
 
