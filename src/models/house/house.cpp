@@ -21,13 +21,29 @@ mesh eclipse(float rx,float ry, float rz, const vec3& p0, size_t Nu, size_t Nv)
             const vec3 p = {x,y,z};
             const vec3 n = normalize(p);
 
-            shape.position.push_back( p+p0 );
-            shape.normal.push_back( n );
+
+
+            // get gui parameters
+            const float scaling = 10.0f;
+            const int octave = 1;
+            const float persistency = 0.01f;
+            const float height = 0.01f;
+
+            // Evaluate Perlin noise
+            const float omega =100000.0f;
+            const float noise = 0.05*std::sin((u+v)*omega)*std::sin(theta+3.14f*omega);//perlin(scaling*u, scaling*v, octave, persistency);
+
+
+
+            shape.position.push_back( p+p0+noise*n );
+            
+            //shape.normal.push_back( n );
         }
     }
 
     shape.connectivity = connectivity_grid(Nu, Nv, false, true);
 
+shape.normal=normal(shape.position,shape.connectivity);
     return shape;
 }
 mesh create_cone(float radius, float height, float offset)

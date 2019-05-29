@@ -41,6 +41,7 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     m->bob_->bob_.mesh_visual("head").uniform_parameter.shading.ambiant=1;
     house_=house_bob();
     house_.translation("house")={-10,-15,0.75};
+    house_.mesh_visual("house").uniform_parameter.shading.ambiant=0.8;
     house_.rotation("head") = rotation_from_axis_angle_mat3({0,0,1},3.014f/2.0f);
 
     bubs= new Bubbles(100);
