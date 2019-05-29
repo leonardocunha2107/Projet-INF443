@@ -24,6 +24,7 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     //terrain.uniform_parameter.color = {0.6f,0.85f,0.5f};
     terrain.uniform_parameter.shading.specular = 0.0f; // non-specular terrain material
     terrain.uniform_parameter.scaling=2.0f;
+    terrain.uniform_parameter.shading.ambiant=0.8;
     sand_texture=texture_gpu( image_load_png("data/sand.png") );
     bob_texture=texture_gpu(image_load_png("data/SpongeFace1.png"));
     // Setup initial camera mode and position

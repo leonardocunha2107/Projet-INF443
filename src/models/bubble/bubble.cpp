@@ -46,7 +46,7 @@ void Bubbles :: update(){
     for(int i=0;i<bubbles.size();i++){
          x = static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5;
          y = static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5;
-         z = static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.0;
+         z = 0.3*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.0);
          bubbles[i].uniform_parameter.translation+=0.01*vec3{x,y,z};
     }
 }
