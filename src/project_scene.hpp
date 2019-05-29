@@ -39,6 +39,8 @@ struct scene_exercise : base_scene_exercise
     vcl::mesh create_skybox();
     vcl :: mesh_drawable skybox;
     vcl::mesh_drawable_hierarchy house_;
+    vcl::mesh_drawable surface_bubble;
+    GLuint texture_id_bubble_billboard;
 };
 
 
