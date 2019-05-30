@@ -1,6 +1,7 @@
 #include "house.hpp"
 
 using namespace vcl;
+#define FLOOR -0.7
 
 
 mesh eclipse(float rx,float ry, float rz, const vec3& p0, size_t Nu, size_t Nv)
@@ -125,4 +126,39 @@ mesh create_cone(float radius, float height, float offset)
     hierarchy.add_element(door, "door", "house", {0.0f,-house_width/4.0f, 0.0f});
     //end house stuff
     return hierarchy;
+}
+
+mesh_drawable house_patrick(){
+    mesh shape;
+    vec3 p0={10,-10,FLOOR};
+    int Nu=50;
+    int Nv=50;
+    float radius=6;
+    shape.texture_uv.resize(Nu*Nv);
+    for( size_t ku=0; ku<Nu; ++ku ) {
+        for( size_t kv=0; kv<Nv; ++kv ) {
+
+            const float u = static_cast<float>(ku)/static_cast<float>(Nu-1);
+            const float v = static_cast<float>(kv)/static_cast<float>(Nv);
+
+            const float theta = static_cast<float>( 3.14159f*u/2 );
+            const float phi   = static_cast<float>( 2*3.14159f*v );
+
+            const float x = radius * std::sin(theta) * std::cos(phi);
+            const float y = radius * std::sin(theta) * std::sin(phi);
+            const float z = radius * std::cos(theta);
+
+            const vec3 p = {x,y,z};
+            const vec3 n = normalize(p);
+
+            shape.position.push_back( p+p0 );
+            shape.normal.push_back( n );
+            shape.texture_uv.push_back({u,v});
+        }
+    }
+
+    shape.connectivity = connectivity_grid(Nu, Nv, false, true);
+
+    return shape;
+
 }

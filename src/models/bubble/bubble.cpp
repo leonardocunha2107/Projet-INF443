@@ -13,12 +13,13 @@ Bubbles :: Bubbles(int n){
     m.connectivity = {{0,1,2}, {0,2,3}};
 
     for(int i=0;i<n;i++){
-        x = 20*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5);
-        y = 20*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5);
-        z = static_cast <float> (rand()) / static_cast <float> (RAND_MAX);
+        x = 40*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5);
+        y = 40*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5);
+        z = 50*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX));
         bubbles[i]=mesh_drawable(m);
         bubbles[i].uniform_parameter.translation={x,y,z};//{-20,-20,FLOOR};
         bubbles[i].uniform_parameter.shading = {1,0,0};
+        bubbles[i].uniform_parameter.scaling=5*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX));
     }
     texture=texture_gpu( image_load_png("data/bubble.png") );
 }
@@ -47,6 +48,8 @@ void Bubbles :: update(){
          x = static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5;
          y = static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.5;
          z = 0.3*(static_cast <float> (rand()) / static_cast <float> (RAND_MAX)-0.0);
-         bubbles[i].uniform_parameter.translation+=0.01*vec3{x,y,z};
+         bubbles[i].uniform_parameter.translation+=0.1*vec3{x,y,z};
+         if(bubbles[i].uniform_parameter.translation.z>50)
+            bubbles[i].uniform_parameter.translation.z=-2;
     }
 }
