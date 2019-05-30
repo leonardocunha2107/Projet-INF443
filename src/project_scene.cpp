@@ -27,6 +27,7 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     terrain.uniform_parameter.shading.ambiant=0.8;
     sand_texture=texture_gpu( image_load_png("data/sand.png") );
     bob_texture=texture_gpu(image_load_png("data/SpongeFace1.png"));
+    texture_patrick=texture_gpu(image_load_png("data/patrick.png"));
     // Setup initial camera mode and position
     scene.camera.camera_type = camera_control_spherical_coordinates;
     scene.camera.scale = 10.0f;
@@ -45,7 +46,8 @@ void scene_exercise::setup_data(std::map<std::string,GLuint>& , scene_structure&
     house_.mesh_visual("house").uniform_parameter.shading.ambiant=0.8;
     house_.rotation("head") = rotation_from_axis_angle_mat3({0,0,1},3.014f/2.0f);
 
-    bubs= new Bubbles(100);
+    bubs= new Bubbles(200);
+    patrick_house=house_patrick();
     
 
 }
@@ -77,12 +79,11 @@ void scene_exercise::frame_draw(std::map<std::string,GLuint>& shaders, scene_str
     skybox.uniform_parameter.translation = scene.camera.camera_position() + vec3(0,0,-10.0f);
     skybox.draw(shaders["mesh"], scene.camera);
 
-    glBindTexture(GL_TEXTURE_2D,scene.texture_white);
+    glBindTexture(GL_TEXTURE_2D,texture_patrick);
+    patrick_house.draw(shaders["mesh"], scene.camera);
+    patrick_house.uniform_parameter.shading.ambiant=0.9;
     
-    if( gui_scene.wireframe ){ // wireframe if asked from the GUI
-        glPolygonOffset( 1.0, 1.0 );
-        terrain.draw(shaders["wireframe"], scene.camera);
-    }
+
     bubs->update();
     bubs->draw(scene,shaders); 
 

@@ -133,7 +133,7 @@ mesh_drawable house_patrick(){
     vec3 p0={10,-10,FLOOR};
     int Nu=50;
     int Nv=50;
-    float radius=6;
+    float radius=3;
     shape.texture_uv.resize(Nu*Nv);
     for( size_t ku=0; ku<Nu; ++ku ) {
         for( size_t kv=0; kv<Nv; ++kv ) {
